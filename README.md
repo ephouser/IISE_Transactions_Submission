@@ -1,7 +1,8 @@
 # IISE_Transactions_Submission
 Data and Code for the IISE Transactions Journal Submission
 
-This README file will detail the order in which code should be executed. This file will be updated regularly. (Last Update 12/8/21).
+This README file will detail the order in which code should be executed. This file will be updated regularly. 
+(Last Update 12/8/21).
 
 
 Pre-Phase Preparation
