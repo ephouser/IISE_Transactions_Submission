@@ -12,3 +12,12 @@ Pre-Phase Preparation
 
 Phase 1 and Phase 2 (Experiment)
 - The overall experiment code was integrated and updated into "SOEN_Experimentation.ipynb" file. Related figures and tables can be replicated through ordered scripts. The overall running time is estimated to within one-hour, but might be different depending on the hardware performance.
+
+Required Python Packages:
+In order to run the code, the following python packages should be installed on your computer.
+- sklearn
+- seaborn
+- pygad
+- tqdm.notebook
+- lightgbm 
+- imblearn
